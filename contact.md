@@ -7,7 +7,7 @@ title: Contact Us
 
 ### Digitally
 
-pete@tdotsandbridges.com
+pete@dotsandbridges.com
 
 ### Telephonically 
 

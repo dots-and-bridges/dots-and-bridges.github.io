@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dots and Bridges
+title: <font color="F59B00">Dots</font> and Bridges
 ---
 
 # Welcome

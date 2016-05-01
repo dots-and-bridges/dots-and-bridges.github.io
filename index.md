@@ -4,7 +4,7 @@ title: Homepage
 ---
 
 # Welcome
-Welcome to Dots and Bridges
+Welcome to Dots and Bridges!
 
 We provide an expansive suite of professional services to assist our clients throughout the business lifecycle. Whether you are a new startup, a mature company, or global entity, we enable transformative growth strategies.
 

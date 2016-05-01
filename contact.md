@@ -7,7 +7,7 @@ title: Contact Us
 
 ### Digitally
 
-pete@thetseronisgroup.com
+pete@tdotsandbridges.com
 
 ### Telephonically 
 
@@ -15,6 +15,6 @@ pete@thetseronisgroup.com
 
 ### Physically
 
-520 Market Street East, Suite 100
+520 Market Street East,
 Gaithersburg, MD 20878
 

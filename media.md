@@ -5,9 +5,9 @@ title: Media Gallery
 
 # Speaking Events
 
-### Video Gallery
+* {% include youtubePlayer.html id=page.UMgB5SciKHg %} 
+* {% include youtubePlayer.html id=page.uZkB1_Akx4g %}
 
-| {% include youtubePlayer.html id=page.UMgB5SciKHg %} | {% include youtubePlayer.html id=page.uZkB1_Akx4g %} |
 | --------------- | ---------- |
 | "UMgB5SciKHg"   | "uZkB1_Akx4g"
 | --------------- | ---------- |

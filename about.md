@@ -11,7 +11,7 @@ to the marketplace.
 Our vision is to create a collaborative continuum of open innovation across the national laboratory, government, industry, and academic eco-systems to ensure Federally-funded research enables a wide range of transformative products and services with broad economic impact.
 
 ## Our Leadership
-As the Chief Technology Officer for the U.S. Departments of Energy and Education, Pete Tseronis worked closely with America’s most experienced researchers, entrepreneurs, and technology companies.
+As the Chief Technology Officer for the U.S. Departments of Energy and Education, Pete Tseronis worked closely with America’s most experienced researchers, entrepreneurs, academics, and technology companies.
  
 ## Our Mission  
 We strive to provide business and government leaders with the same kind of high-level, strategic thinking and diligent execution that empowers our nation's innovators and accelerates technology transfer.

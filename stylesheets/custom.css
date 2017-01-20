@@ -29,3 +29,8 @@
     font-style: italic;
 }
 
+#logo
+{
+    margin-top: 2em;
+    float: right;
+}

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: <font color="F59B00">Dots</font> and Bridges
+title: <font color="F26122">Dots</font> and Bridges
 ---
 
 # Welcome
-Welcome to <font color="F59B00">Dots</font> and Bridges!
+Welcome to <font color="F26122">Dots</font> and Bridges!
 
 We provide an expansive suite of professional services to assist our clients throughout the business lifecycle. Whether you are a new startup, a mature company, or global entity, we enable transformative growth strategies.
 

@@ -14,4 +14,4 @@ Our vision is to create a collaborative continuum of open innovation across the 
 As the Chief Technology Officer for the U.S. Departments of Energy and Education, Pete Tseronis worked closely with America’s most experienced researchers, entrepreneurs, academics, and technology companies.
  
 ## Our Mission  
-As a consulting partner, we strive to provide business and government leaders with the same kind of high-level, strategic thinking and diligent execution that empowers our nation's innovators and accelerates technology transfer. Our goal is to ensure inovative technology solutions are positioned to support tha Nation's need for innovation and creativity.
+As a consulting partner, we strive to provide business and government leaders with the same kind of high-level, strategic thinking and diligent execution that empowers our nation's innovators and accelerates technology transfer. Our goal is to ensure technology solutions are positioned to support tha Nation's need for innovation and creativity.
